@@ -15,5 +15,5 @@ These changes have not been released yet.
 - First release
 
 [unreleased]: https://github.com/FerMod/EventDispatcher/compare/v0.2.0-beta...HEAD
-[v0.1.1-beta]: https://github.com/FerMod/EventDispatcher/compare/v0.1.0-beta...v0.2.0-beta
+[v0.2.0-beta]: https://github.com/FerMod/EventDispatcher/compare/v0.1.0-beta...v0.2.0-beta
 [v0.1.0-beta]: https://github.com/FerMod/EventDispatcher/releases/tag/v0.1.0-beta

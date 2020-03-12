@@ -60,11 +60,6 @@
 		</license>
 	</licenses>
 
-	<ciManagement>
-		<system>TravisCI</system>
-		<url>https://travis-ci.org/FerMod/MavenRepositoryTemplate</url>
-	</ciManagement>
-
 	<distributionManagement>
 		<repository>
 			<id>github</id>
@@ -137,7 +132,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Log4j2 -->
+		<!-- Log4j 2 -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>

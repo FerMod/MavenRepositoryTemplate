@@ -11,7 +11,7 @@ A project to use as a template for new ones.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#Deployment)for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#Deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 

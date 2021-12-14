@@ -90,7 +90,7 @@
 		<!-- Dependencies Versions -->
 		<junit.jupiter.version>5.6.0</junit.jupiter.version>
 		<junit.platform.version>1.6.0</junit.platform.version>
-		<apache.logging.log4j.version>2.13.3</apache.logging.log4j.version>
+		<apache.logging.log4j.version>2.16.0</apache.logging.log4j.version>
 
 		<!-- Plugins Versions -->
 		<maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
